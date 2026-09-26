@@ -1,169 +1,178 @@
-<h1 align="center">>_ ISAAC</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001a0a,50:003d1c,100:00ff41&height=220&section=header&text=%3E_%20ISAAC&fontSize=65&fontColor=00FF41&animation=twinkling&fontAlignY=35&desc=CYBERSECURITY%20%2F%2F%20SOFTWARE%20%2F%2F%20RESEARCH&descAlignY=58&descSize=16"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&pause=800&color=00FF41&center=true&vCenter=true&width=850&height=100&lines=Cybersecurity+%7C+Software+Development;Python+%7C+C%23%2F.NET+%7C+Kotlin+%7C+Java;Red+Team+%7C+Network+Security+%7C+Cryptography;Construindo+porque+programar+%C3%A9+divertido." alt="Typing SVG" />
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001a0a,50:003d1c,100:00ff41&height=2&section=header"/>
+
+</div>
+
+<h2 align="center">◢ WHOAMI</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=900&color=00FF41&center=true&vCenter=true&width=800&lines=Cybersecurity+%7C+Software+Development;Python+%7C+C%23%2F.NET+%7C+Kotlin+%7C+Java;Networks%2C+Security%2C+APIs+%26+Experiments;I+code+because+I+enjoy+building+things." alt="Typing SVG" />
+  <i>“Conhecer o lado sombrio da tecnologia sem precisar fazer parte dele.”</i>
 </p>
 
-<p align="center">
-  <code>01001101 01100001 01110100 01110010 01101001 01111000</code>
-</p>
+Sou Isaac — estudante de **Cybersecurity** e desenvolvedor que simplesmente gosta de programar.
+
+Meu interesse fica no cruzamento entre **segurança cibernética, desenvolvimento de software, redes, criptografia e experimentação**.
+
+Gosto de entender como as coisas funcionam por baixo dos panos, construir ferramentas, testar ideias, quebrar coisas em ambientes controlados e descobrir o motivo de algo funcionar — ou não funcionar.
+
+Não programo apenas porque faz parte da minha carreira.
+
+**Eu programo porque gosto.**
 
 ---
 
-## `whoami`
-
-I'm Isaac — a Cybersecurity student and software developer who genuinely enjoys programming.
-
-My interests sit somewhere between **cybersecurity, software engineering, networking, and experimentation**.
-
-I like understanding how things work under the hood, building tools to explore those systems, breaking things in controlled environments, and figuring out why something behaves the way it does.
-
-I don't program only because it's part of my career path.
-
-**I program because it's fun.**
-
----
-
-## `> interests`
+<h2 align="center">◢ INTERESTS</h2>
 
 ```text
-[+] Cybersecurity
-[+] Network Security
-[+] Red Team / Security Research
-[+] Defensive Security
-[+] Software Development
-[+] Backend & APIs
-[+] Cryptography
-[+] Networking & TCP/IP
-[+] Reverse Engineering
-[+] Automation
-[+] Motion Design
-[+] Random experiments that probably didn't need to exist
+┌─────────────────────────────────────────────────────────┐
+│                                                         │
+│  [+] Cybersecurity                                      │
+│  [+] Red Team / Security Research                       │
+│  [+] Defensive Security                                 │
+│  [+] Network Security / TCP-IP                          │
+│  [+] Software Development                               │
+│  [+] Backend & APIs                                     │
+│  [+] Cryptography                                       │
+│  [+] Reverse Engineering                                │
+│  [+] Automation                                         │
+│  [+] Motion Design                                      │
+│  [+] Experimentos aleatórios que não precisavam existir│
+│                                                         │
+└─────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## `> stack`
+<h2 align="center">◢ STACK</h2>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cs,dotnet,kotlin,java,postgres,git,github,linux" />
-
+  <img src="https://skillicons.dev/icons?i=python,cs,dotnet,kotlin,java,postgres,linux,git,github&theme=dark" />
 </p>
 
 <p align="center">
-
-`Python` · `C#` · `.NET` · `Kotlin` · `Java` · `PostgreSQL` · `Linux` · `Git`
-
+  <code>Python</code> ·
+  <code>C#</code> ·
+  <code>.NET</code> ·
+  <code>Kotlin</code> ·
+  <code>Java</code> ·
+  <code>PostgreSQL</code> ·
+  <code>Linux</code> ·
+  <code>Git</code>
 </p>
 
 ---
 
-## `> things i've built`
+<h2 align="center">◢ PROJECTS</h2>
 
-### 🔎 Port Scanner
+<h3>🔐 VOID — C# / .NET</h3>
 
-A controlled network reconnaissance project built around TCP sockets, networking concepts, concurrency, and service identification.
+Backend desenvolvido para explorar **REST APIs, PostgreSQL, Entity Framework Core, autenticação, hashing de senhas, persistência, testes automatizados e concorrência de banco de dados**.
 
-Built as a way to understand how network reconnaissance works from the code level.
+A versão original do projeto permanece **privada**. Este repositório público apresenta uma versão selecionada do projeto e seus conceitos.
 
-> **Authorized environments only.**
-
----
-
-### 🛡️ Defensive Security Tools
-
-Security-oriented experiments focused on understanding systems from the defensive side — detection, analysis, networking, and controlled testing.
-
-Because understanding how something can be attacked also means understanding how it can be protected.
+<p>
+  → <a href="https://github.com/silvamouraisaac-brasil/VOID-API">VOID-API</a>
+</p>
 
 ---
 
-### 🔐 Cryptography API — C# / .NET
+<h3>🔎 PyScanner V2</h3>
 
-A C#/.NET project exploring cryptographic concepts through an API-oriented architecture.
+Projeto de estudo em **Python e redes**, explorando conceitos de TCP, sockets, concorrência e reconhecimento de serviços em ambientes controlados.
 
-Focused on understanding cryptography, application security, backend development, and how security primitives can be exposed through software.
+A versão pública foi intencionalmente **censurada e limitada**, mantendo o foco educacional e evitando transformar o repositório em um guia operacional.
 
----
-
-### ⚙️ VOID
-
-A C#/.NET backend project focused on:
-
-`REST APIs` · `PostgreSQL` · `Entity Framework Core` · `Password Hashing` · `Persistence` · `Automated Testing` · `Database Concurrency`
-
-→ [View VOID](https://github.com/silvamouraisaac-brasil/VOID-API.git)
+<p>
+  → <a href="https://github.com/silvamouraisaac-brasil/PyScanner-V2">PyScanner V2</a>
+</p>
 
 ---
 
-### 💀 Rave-Skull
+<h3>🛡️ Defensive Security Tools</h3>
 
-A Python terminal experiment built around animated ASCII visuals.
+Experimentos voltados para **segurança defensiva, análise, redes e testes controlados**.
 
-Not everything needs a practical reason.
-
-Sometimes you just want to make the terminal look insane.
-
-→ [View Rave-Skull](https://github.com/silvamouraisaac-brasil/Rave-Skull)
+Projetos criados para entender sistemas de diferentes perspectivas e estudar como problemas podem ser identificados e tratados.
 
 ---
 
-## `> currently`
+<h3>💀 Rave-Skull</h3>
+
+Um experimento em Python baseado em **ASCII art animada no terminal**.
+
+Porque nem todo projeto precisa ter uma finalidade séria.
+
+Às vezes você só quer fazer o terminal parecer insano.
+
+<p>
+  → <a href="https://github.com/silvamouraisaac-brasil/Rave-Skull">Rave-Skull</a>
+</p>
+
+---
+
+<h2 align="center">◢ CURRENTLY</h2>
+
+<p align="center">
 
 ```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  studying cybersecurity                     │
-│  building security tools                    │
-│  learning networking                        │
-│  experimenting with Python                  │
-│  developing with C# / .NET                  │
-│  exploring cryptography                     │
-│  learning by building                       │
-│  programming for the fun of it              │
-│                                             │
-└─────────────────────────────────────────────┘
+[ SYSTEM STATUS ]
+
+> Cybersecurity        ████████████████████  ONLINE
+> Networking            ████████████████████  ONLINE
+> Python                ████████████████████  ONLINE
+> C# / .NET             ████████████████████  ONLINE
+> Cryptography          ███████████████████░  LEARNING
+> Security Research     ███████████████████░  ACTIVE
+> Curiosity             ████████████████████  UNLIMITED
 ```
 
----
-
-## `> philosophy`
-
-> **Build it. Break it. Understand it.**
-
-I believe the best way to learn technology is to get your hands dirty.
-
-Build something.
-
-Take it apart.
-
-Figure out what went wrong.
-
-Build it better.
-
-Repeat.
+</p>
 
 ---
 
-## `> system.log`
+<h2 align="center">◢ PHILOSOPHY</h2>
+
+<p align="center">
+
+<b>BUILD IT.</b><br> <b>BREAK IT.</b><br> <b>UNDERSTAND IT.</b><br> <b>BUILD IT BETTER.</b>
+
+</p>
+
+<p align="center">
+  <i>Aprender fazendo. Entender desmontando. Melhorar construindo.</i>
+</p>
+
+---
+
+<h2 align="center">◢ SYSTEM.LOG</h2>
 
 ```console
 $ ./isaac
 
-[OK] Cybersecurity initialized
-[OK] Python loaded
-[OK] C#/.NET loaded
-[OK] Networking enabled
-[OK] Curiosity: unlimited
+[ OK ] Cybersecurity initialized
+[ OK ] Python loaded
+[ OK ] C#/.NET loaded
+[ OK ] Networking enabled
+[ OK ] Cryptography module loaded
+[ OK ] Curiosity: unlimited
 
-[+] Status: learning
-[+] Mode: building
-[+] Objective: understand how things work
+[+] status      : learning
+[+] mode        : building
+[+] environment : controlled
+[+] objective   : understand how things work
 
 >_ █
 ```
 
-<p align="center">
-  <i>There is always something else to build.</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003d1c,100:001a0a&height=140&section=footer&animation=twinkling"/>
+
+</div>
