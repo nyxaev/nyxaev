@@ -121,19 +121,6 @@ Porque nem todo projeto precisa ter uma finalidade séria.
 
 <p align="center">
 
-isaac@cyber:~$ status
-
-[+] focus       → cybersecurity / software
-[+] networking  → TCP/IP / sockets
-[+] security    → red team / defensive / research
-[+] development → Python / C# / .NET / Kotlin / Java
-[+] crypto      → learning & experimenting
-[+] mode        → building
-
-isaac@cyber:~$ _
-
-</p>
-
 ---
 
 <h2 align="center">◢ PHILOSOPHY</h2>
