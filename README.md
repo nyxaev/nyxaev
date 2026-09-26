@@ -16,7 +16,7 @@
   <i>“Breaking things, building things”</i>
 </p>
 
-Sou Isaac, estudante de **Cybersecurity** e desenvolvedor que simplesmente gosta de programar.
+Olá, seja bem vindo ao meu mundo :)
 
 
 <h2 align="center">◢ INTERESTS</h2>
@@ -153,3 +153,17 @@ $ ./isaac
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,50:003d1c,100:001a0a&height=140&section=footer&animation=twinkling"/>
 
 </div>
+
+<h2 align="center">🦆 QUACK.exe</h2>
+
+<p align="center">
+  <img src="SEU-GIF-DE-PATO-AQUI" width="220">
+</p>
+
+<p align="center">
+  <code>WARNING: duck.exe has stopped responding</code>
+</p>
+
+<p align="center">
+  <i>He was not supposed to have root access.</i>
+</p>
