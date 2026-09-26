@@ -154,16 +154,3 @@ $ ./isaac
 
 </div>
 
-<h2 align="center">🦆 QUACK.exe</h2>
-
-<p align="center">
-  <img src="SEU-GIF-DE-PATO-AQUI" width="220">
-</p>
-
-<p align="center">
-  <code>WARNING: duck.exe has stopped responding</code>
-</p>
-
-<p align="center">
-  <i>He was not supposed to have root access.</i>
-</p>
