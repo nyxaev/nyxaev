@@ -18,15 +18,6 @@
 
 Sou Isaac, estudante de **Cybersecurity** e desenvolvedor que simplesmente gosta de programar.
 
-Meu interesse fica no cruzamento entre **segurança cibernética, desenvolvimento de software, redes, criptografia e experimentação**.
-
-Gosto de entender como as coisas funcionam por baixo dos panos, construir ferramentas, testar ideias, quebrar coisas em ambientes controlados e descobrir o motivo de algo funcionar — ou não funcionar.
-
-Não programo apenas porque faz parte da minha carreira.
-
-**Eu programo porque gosto.**
-
----
 
 <h2 align="center">◢ INTERESTS</h2>
 
