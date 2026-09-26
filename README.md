@@ -106,13 +106,7 @@ Porque nem todo projeto precisa ter uma finalidade séria.
   → <a href="https://github.com/silvamouraisaac-brasil/Rave-Skull">Rave-Skull</a>
 </p>
 
----
 
-<h2 align="center">◢ CURRENTLY</h2>
-
-<p align="center">
-
----
 
 <h2 align="center">◢ PHILOSOPHY</h2>
 
