@@ -121,17 +121,16 @@ Porque nem todo projeto precisa ter uma finalidade séria.
 
 <p align="center">
 
-```text
-[ SYSTEM STATUS ]
+isaac@cyber:~$ status
 
-> Cybersecurity        ████████████████████  ONLINE
-> Networking            ████████████████████  ONLINE
-> Python                ████████████████████  ONLINE
-> C# / .NET             ████████████████████  ONLINE
-> Cryptography          ███████████████████░  LEARNING
-> Security Research     ███████████████████░  ACTIVE
-> Curiosity             ████████████████████  UNLIMITED
-```
+[+] focus       → cybersecurity / software
+[+] networking  → TCP/IP / sockets
+[+] security    → red team / defensive / research
+[+] development → Python / C# / .NET / Kotlin / Java
+[+] crypto      → learning & experimenting
+[+] mode        → building
+
+isaac@cyber:~$ _
 
 </p>
 
