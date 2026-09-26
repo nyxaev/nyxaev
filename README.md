@@ -13,7 +13,7 @@
 <h2 align="center">◢ WHOAMI</h2>
 
 <p align="center">
-  <i>“Conhecer o lado sombrio da tecnologia sem precisar fazer parte dele.”</i>
+  <i>“Breaking things, building things”</i>
 </p>
 
 Sou Isaac — estudante de **Cybersecurity** e desenvolvedor que simplesmente gosta de programar.
