@@ -154,4 +154,14 @@ $ ./isaac
 
 </div>
 
+<h2 align="center">🦆 QUACK</h2>
 
+<p align="center">
+  <a href="https://tenor.com/pt-BR/view/rubber-duck-jump-gif-25991743">
+    <img src="https://media.tenor.com/FRLactibx34AAAAj/rubber-duck.gif" width="180">
+  </a>
+</p>
+
+<p align="center">
+  <code>STATUS: JUMPING</code>
+</p>
