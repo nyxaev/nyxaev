@@ -10,7 +10,7 @@
 
 </div>
 
-<h2 align="center">◢ Quem Sou Eu?</h2>
+
 
 <p align="center">
   <i>“Breaking things, building things”</i>
