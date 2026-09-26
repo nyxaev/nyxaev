@@ -43,7 +43,7 @@ Não programo apenas porque faz parte da minha carreira.
 │  [+] Reverse Engineering                                │
 │  [+] Automation                                         │
 │  [+] Motion Design                                      │
-│  [+] Experimentos aleatórios que não precisavam existir│
+│  [+] Experimentos aleatórios que não precisavam existir │
 │                                                         │
 └─────────────────────────────────────────────────────────┘
 ```
