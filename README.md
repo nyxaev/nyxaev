@@ -16,7 +16,7 @@
   <i>“Breaking things, building things”</i>
 </p>
 
-Sou Isaac — estudante de **Cybersecurity** e desenvolvedor que simplesmente gosta de programar.
+Sou Isaac, estudante de **Cybersecurity** e desenvolvedor que simplesmente gosta de programar.
 
 Meu interesse fica no cruzamento entre **segurança cibernética, desenvolvimento de software, redes, criptografia e experimentação**.
 
