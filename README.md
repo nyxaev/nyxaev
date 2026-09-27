@@ -7,10 +7,7 @@
 </div>
 
 <br>
-
 Olá, seja bem-vindo ao meu espaço.
-
-
 <br>
 
 ## Interesses
