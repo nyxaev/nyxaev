@@ -15,8 +15,8 @@ Olá, seja bem-vindo ao meu espaço.
 
 ## Interesses
 
-- Cybersecurity — red team, defensive security, redes
-- Software development — backend e APIs
+- Cybersecurity 
+- Software development 
 - Criptografia e engenharia reversa
 - Automação
 - Motion design
