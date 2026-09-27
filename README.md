@@ -10,7 +10,6 @@
 
 Olá, seja bem-vindo ao meu espaço.
 
-Estudo segurança e desenvolvimento por curiosidade genuína — gosto de entender como as coisas funcionam por dentro, e construir versões melhores do que encontro.
 
 <br>
 
