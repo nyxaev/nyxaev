@@ -1,15 +1,17 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=000000&center=true&vCenter=true&width=500&lines=Isaac+Moura;Backend+%2B+Mobile+Developer;Cybersecurity+Student" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=555555&center=true&vCenter=true&width=500&lines=Isaac+Moura;Backend+%2B+Mobile+Developer;Cybersecurity+Student" />
 
 <br>
 
-<sub>building things · breaking things · understanding systems</sub>
+<sub>
+<span style="color:#888888;">building things · breaking things · understanding systems</span>
+</sub>
 
 <br><br>
 
 <a href="https://github.com/nyxaev">
-  <img src="https://img.shields.io/badge/github-000000?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-555555?style=flat-square&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -18,61 +20,61 @@
 
 <div align="center">
 
-Software development with a focus on **backend**, **mobile** and **efficient solutions**.
+<sub>Software development with a focus on</sub>
 
-Currently exploring **cybersecurity**, **networks**, APIs and relational databases.
+**backend · mobile · efficient solutions**
+
+<br><br>
+
+<sub>
+Currently exploring cybersecurity, networks,<br>
+APIs and relational databases.
+</sub>
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
-### stack
+<sub>technologies</sub>
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=python,cs,dotnet,kotlin,java,postgres,linux,git&theme=light" />
 
+<br><br>
+
+<sub>
+Python · C# · .NET · Kotlin · Java<br>
+PostgreSQL · Linux · Git
+</sub>
+
 </div>
 
 <br><br>
 
 <div align="center">
 
-`Python` · `C#` · `.NET` · `Kotlin` · `Java`
-
-`PostgreSQL` · `Linux` · `Git`
-
-</div>
-
-<br><br>
-
-<div align="center">
-
-───────
+<sub>focus</sub>
 
 <br><br>
 
 **building**
 
-APIs · backend systems · mobile applications
+<sub>APIs · backend systems · mobile applications</sub>
 
 <br><br>
 
 **learning**
 
-Cybersecurity · Networks · Software Architecture
+<sub>Cybersecurity · Networks · Software Architecture</sub>
 
 <br><br>
 
-**interested in**
+**exploring**
 
-Systems · Security · Infrastructure · Development
-
-<br><br>
-
-───────
+<sub>Systems · Security · Infrastructure · Development</sub>
 
 </div>
 
@@ -80,14 +82,11 @@ Systems · Security · Infrastructure · Development
 
 <div align="center">
 
-<sub>
-
-`@nyxaev`
-
-<br>
-
-Software Development · Cybersecurity
-
-</sub>
+<sub style="color:#888888;">@nyxaev</sub>
 
 </div>
+
+
+
+
+
